@@ -1,0 +1,191 @@
+[
+{"text":"hello","gloss":"HELLO"},
+{"text":"hi","gloss":"HI"},
+{"text":"hey","gloss":"HEY"},
+{"text":"hello there","gloss":"HELLO"},
+{"text":"hi there","gloss":"HI"},
+
+{"text":"good morning","gloss":"GOOD MORNING"},
+{"text":"good afternoon","gloss":"GOOD AFTERNOON"},
+{"text":"good evening","gloss":"GOOD EVENING"},
+{"text":"good night","gloss":"GOOD NIGHT"},
+{"text":"good morning sir","gloss":"GOOD MORNING"},
+{"text":"good morning maam","gloss":"GOOD MORNING"},
+
+{"text":"how are you","gloss":"HOW YOU"},
+{"text":"how are you today","gloss":"HOW YOU TODAY"},
+{"text":"how are you now","gloss":"HOW YOU"},
+{"text":"how r you","gloss":"HOW YOU"},
+{"text":"how are u","gloss":"HOW YOU"},
+{"text":"how are things","gloss":"HOW THINGS"},
+{"text":"how are you feeling","gloss":"HOW YOU FEEL"},
+
+{"text":"i am fine","gloss":"I FINE"},
+{"text":"i am good","gloss":"I GOOD"},
+{"text":"i am okay","gloss":"I OKAY"},
+{"text":"i am not fine","gloss":"I NOT FINE"},
+{"text":"i am happy","gloss":"I HAPPY"},
+{"text":"i am sad","gloss":"I SAD"},
+{"text":"i am tired","gloss":"I TIRED"},
+{"text":"i am hungry","gloss":"I HUNGRY"},
+{"text":"i am angry","gloss":"I ANGRY"},
+
+{"text":"what is your name","gloss":"WHAT YOUR NAME"},
+{"text":"your name","gloss":"YOUR NAME"},
+{"text":"my name is","gloss":"MY NAME"},
+{"text":"who are you","gloss":"WHO YOU"},
+
+{"text":"where are you from","gloss":"WHERE YOU FROM"},
+{"text":"where do you live","gloss":"WHERE YOU LIVE"},
+{"text":"where are you going","gloss":"WHERE YOU GO"},
+{"text":"where is your house","gloss":"WHERE YOUR HOUSE"},
+
+{"text":"what are you doing","gloss":"WHAT YOU DO"},
+{"text":"what do you do","gloss":"WHAT YOU DO"},
+{"text":"what are you doing now","gloss":"WHAT YOU DO NOW"},
+{"text":"what happened","gloss":"WHAT HAPPENED"},
+
+{"text":"why are you sad","gloss":"WHY YOU SAD"},
+{"text":"why are you crying","gloss":"WHY YOU CRY"},
+{"text":"why are you angry","gloss":"WHY YOU ANGRY"},
+
+{"text":"can i help you","gloss":"I HELP YOU"},
+{"text":"how can i help you","gloss":"HOW I HELP YOU"},
+{"text":"help me","gloss":"HELP ME"},
+{"text":"please help me","gloss":"PLEASE HELP ME"},
+{"text":"i need help","gloss":"I NEED HELP"},
+
+{"text":"thank you","gloss":"THANK YOU"},
+{"text":"thanks","gloss":"THANK YOU"},
+{"text":"thanks a lot","gloss":"THANK YOU"},
+{"text":"thank you so much","gloss":"THANK YOU VERY MUCH"},
+{"text":"many thanks","gloss":"THANK YOU"},
+{"text":"you are welcome","gloss":"YOU WELCOME"},
+
+{"text":"sorry","gloss":"SORRY"},
+{"text":"i am sorry","gloss":"I SORRY"},
+{"text":"really sorry","gloss":"SORRY"},
+{"text":"my mistake","gloss":"MY MISTAKE"},
+
+{"text":"i need water","gloss":"I NEED WATER"},
+{"text":"give me water","gloss":"GIVE WATER"},
+{"text":"bring water","gloss":"BRING WATER"},
+{"text":"i want water","gloss":"I WANT WATER"},
+{"text":"water please","gloss":"WATER PLEASE"},
+
+{"text":"i want food","gloss":"I WANT FOOD"},
+{"text":"give me food","gloss":"GIVE FOOD"},
+{"text":"bring food","gloss":"BRING FOOD"},
+{"text":"food please","gloss":"FOOD PLEASE"},
+
+{"text":"sit down","gloss":"SIT DOWN"},
+{"text":"stand up","gloss":"STAND UP"},
+{"text":"come here","gloss":"COME HERE"},
+{"text":"go there","gloss":"GO THERE"},
+{"text":"go home","gloss":"GO HOME"},
+{"text":"go fast","gloss":"GO FAST"},
+{"text":"go slow","gloss":"GO SLOW"},
+
+{"text":"open door","gloss":"OPEN DOOR"},
+{"text":"close door","gloss":"CLOSE DOOR"},
+{"text":"turn on light","gloss":"TURN ON LIGHT"},
+{"text":"turn off light","gloss":"TURN OFF LIGHT"},
+
+{"text":"what time is it","gloss":"WHAT TIME"},
+{"text":"what is the time","gloss":"WHAT TIME"},
+{"text":"when will you come","gloss":"WHEN YOU COME"},
+{"text":"i will come tomorrow","gloss":"I COME TOMORROW"},
+
+{"text":"we will go outside","gloss":"WE GO OUTSIDE"},
+{"text":"lets go","gloss":"WE GO"},
+{"text":"come with me","gloss":"COME WITH ME"},
+
+{"text":"i understand","gloss":"I UNDERSTAND"},
+{"text":"i dont understand","gloss":"I NOT UNDERSTAND"},
+{"text":"repeat please","gloss":"REPEAT PLEASE"},
+{"text":"say again","gloss":"REPEAT"},
+
+{"text":"speak slowly","gloss":"SPEAK SLOWLY"},
+{"text":"speak clearly","gloss":"SPEAK CLEARLY"},
+
+{"text":"you are good","gloss":"YOU GOOD"},
+{"text":"you are bad","gloss":"YOU BAD"},
+{"text":"you are nice","gloss":"YOU NICE"},
+
+{"text":"i like you","gloss":"I LIKE YOU"},
+{"text":"i love you","gloss":"I LOVE YOU"},
+
+{"text":"take care","gloss":"TAKE CARE"},
+{"text":"be careful","gloss":"BE CAREFUL"},
+
+{"text":"wait here","gloss":"WAIT HERE"},
+{"text":"wait a minute","gloss":"WAIT"},
+{"text":"wait for me","gloss":"WAIT ME"},
+
+{"text":"call me","gloss":"CALL ME"},
+{"text":"i will call you","gloss":"I CALL YOU"},
+
+{"text":"do you understand","gloss":"YOU UNDERSTAND"},
+{"text":"are you listening","gloss":"YOU LISTEN"},
+
+{"text":"what is this","gloss":"WHAT THIS"},
+{"text":"what is that","gloss":"WHAT THAT"},
+{"text":"this is good","gloss":"THIS GOOD"},
+{"text":"this is bad","gloss":"THIS BAD"},
+
+{"text":"who is he","gloss":"WHO HE"},
+{"text":"who is she","gloss":"WHO SHE"},
+{"text":"who is that","gloss":"WHO THAT"},
+
+{"text":"i am coming","gloss":"I COME"},
+{"text":"i am going","gloss":"I GO"},
+
+{"text":"start work","gloss":"START WORK"},
+{"text":"finish work","gloss":"FINISH WORK"},
+
+{"text":"go school","gloss":"GO SCHOOL"},
+{"text":"go office","gloss":"GO OFFICE"},
+{"text":"go market","gloss":"GO MARKET"},
+
+{"text":"buy food","gloss":"BUY FOOD"},
+{"text":"buy water","gloss":"BUY WATER"},
+{"text":"buy clothes","gloss":"BUY CLOTHES"},
+
+{"text":"play game","gloss":"PLAY GAME"},
+{"text":"watch tv","gloss":"WATCH TV"},
+{"text":"listen music","gloss":"LISTEN MUSIC"},
+
+{"text":"open book","gloss":"OPEN BOOK"},
+{"text":"close book","gloss":"CLOSE BOOK"},
+{"text":"read book","gloss":"READ BOOK"},
+
+{"text":"drink water","gloss":"DRINK WATER"},
+{"text":"eat food","gloss":"EAT FOOD"},
+
+{"text":"run fast","gloss":"RUN FAST"},
+{"text":"walk slowly","gloss":"WALK SLOWLY"},
+
+{"text":"sleep now","gloss":"SLEEP NOW"},
+{"text":"wake up","gloss":"WAKE UP"},
+
+{"text":"clean room","gloss":"CLEAN ROOM"},
+{"text":"wash hands","gloss":"WASH HANDS"},
+
+{"text":"drive car","gloss":"DRIVE CAR"},
+{"text":"ride bike","gloss":"RIDE BIKE"},
+
+{"text":"learn english","gloss":"LEARN ENGLISH"},
+{"text":"study hard","gloss":"STUDY HARD"},
+
+{"text":"write name","gloss":"WRITE NAME"},
+{"text":"draw picture","gloss":"DRAW PICTURE"},
+
+{"text":"open window","gloss":"OPEN WINDOW"},
+{"text":"close window","gloss":"CLOSE WINDOW"},
+
+{"text":"send message","gloss":"SEND MESSAGE"},
+{"text":"check phone","gloss":"CHECK PHONE"},
+
+{"text":"pay money","gloss":"PAY MONEY"},
+{"text":"save money","gloss":"SAVE MONEY"}
+]
